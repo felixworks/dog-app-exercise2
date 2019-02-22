@@ -1,1 +1,1 @@
-# dog app
+# dog app - exercise 2
